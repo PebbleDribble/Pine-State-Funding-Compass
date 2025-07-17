@@ -23,18 +23,7 @@
     "contact": "",
     "tags": ["website", "investment", "community"]
   },
-  {
-    "id": 3,
-    "title": "Top Gun Ventures",
-    "location": "Brunswick, Maine",
-    "type": "Venture Capital",
-    "amount": "",
-    "stage": "Series A & B",
-    "description": "Top Gun Ventures is a venture capital firm focused on investing in scalable technology companies. They provide both capital and strategic guidance to help companies achieve rapid growth and market leadership.",
-    "website": "https://www.topgunventures.com",
-    "contact": "",
-    "tags": ["website", "venture capital", "investment"]
-  },
+
   {
     "id": 4,
     "title": "Maine SBIR/STTR Program",
