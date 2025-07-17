@@ -4,11 +4,11 @@
     "title": "Maine Technology Institute (MTI)",
     "location": "Statewide, Maine",
     "type": "Grant & Loan",
-    "amount": "Up to $500K",
+    "amount": "",
     "stage": "Seed to Growth",
     "description": "MTI provides funding and business support to Maine-based technology companies. They offer various programs including seed grants, development loans, and cluster enhancement awards. Perfect for tech startups looking to commercialize their innovations.",
     "website": "https://www.mainetechnology.org",
-    "contact": "info@mainetechnology.org",
+    "contact": "",
     "tags": ["website", "grant", "support"]
   },
   {
@@ -16,11 +16,11 @@
     "title": "CEI Investment Notes",
     "location": "Portland, Maine",
     "type": "Community Investment",
-    "amount": "$25K - $250K",
+    "amount": "",
     "stage": "Early to Growth",
     "description": "Coastal Enterprises Inc. provides patient capital and technical assistance to businesses that create economic opportunity in Maine's underinvested markets. They focus on companies that create quality jobs and strengthen communities.",
     "website": "https://www.ceimaine.org",
-    "contact": "info@ceimaine.org",
+    "contact": "",
     "tags": ["website", "investment", "community"]
   },
   {
@@ -28,11 +28,11 @@
     "title": "Top Gun Ventures",
     "location": "Brunswick, Maine",
     "type": "Venture Capital",
-    "amount": "$500K - $5M",
+    "amount": "",
     "stage": "Series A & B",
     "description": "Top Gun Ventures is a venture capital firm focused on investing in scalable technology companies. They provide both capital and strategic guidance to help companies achieve rapid growth and market leadership.",
     "website": "https://www.topgunventures.com",
-    "contact": "contact@topgunventures.com",
+    "contact": "",
     "tags": ["website", "venture capital", "investment"]
   },
   {
@@ -52,11 +52,11 @@
     "title": "Maine Venture Fund (MVF)",
     "location": "Statewide, Maine",
     "type": "Venture Capital",
-    "amount": "Varies",
+    "amount": "$250K - $500K",
     "stage": "Early to Growth",
     "description": "Maine Venture Fund invests in Maine-based companies with high-growth potential, providing equity capital to support their expansion.",
     "website": "https://www.maineventurefund.com/",
-    "contact": "info@maineventurefund.com",
+    "contact": "",
     "tags": ["website", "venture capital", "investment"]
   },
   {
@@ -64,11 +64,11 @@
     "title": "North Atlantic Capital",
     "location": "Portland, Maine",
     "type": "Venture Capital",
-    "amount": "Varies",
+    "amount": "",
     "stage": "Growth",
     "description": "North Atlantic Capital provides growth capital to later-stage technology companies.",
     "website": "https://www.northatlanticcapital.com/",
-    "contact": "info@northatlanticcapital.com",
+    "contact": "",
     "tags": ["website", "venture capital", "investment"]
   },
   {
@@ -76,11 +76,11 @@
     "title": "Maine Angels",
     "location": "Portland, Maine",
     "type": "Angel Investment",
-    "amount": "Varies",
+    "amount": "",
     "stage": "Seed, Early Stage",
     "description": "Maine Angels is a group of accredited investors who provide funding and mentorship to early-stage companies in Maine and New England.",
     "website": "https://www.maineangels.org/",
-    "contact": "info@maineangels.org",
+    "contact": "",
     "tags": ["website", "investment", "angel"]
   },
   {
@@ -88,11 +88,11 @@
     "title": "Dirigo Labs",
     "location": "Waterville, Maine",
     "type": "Accelerator",
-    "amount": "Varies",
+    "amount": "$25K investment",
     "stage": "Early Stage",
     "description": "Dirigo Labs is a startup accelerator that provides mentorship, resources, and funding opportunities to early-stage companies in Maine.",
     "website": "https://www.dirigolabs.org/",
-    "contact": "info@dirigolabs.org",
+    "contact": "",
     "tags": ["website", "accelerator", "program"]
   },
   {
@@ -112,11 +112,11 @@
     "title": "Tom's of Maine Incubator",
     "location": "Statewide, Maine",
     "type": "Incubator/Grant",
-    "amount": "Varies",
+    "amount": "",
     "stage": "Early Stage",
     "description": "The Tom's of Maine Incubator provides funding, mentorship, and support to young entrepreneurs working on solutions to environmental and social challenges.",
     "website": "https://www.tomsofmaine.com/about-us/incubator",
-    "contact": "Via website contact form",
+    "contact": "",
     "tags": ["website", "incubator", "grant", "social impact"]
   },
   {
@@ -124,7 +124,7 @@
     "title": "Finance Authority of Maine (FAME)",
     "location": "Statewide, Maine",
     "type": "Government Financing",
-    "amount": "Varies",
+    "amount": "",
     "stage": "All stages",
     "description": "The Finance Authority of Maine (FAME) provides a wide range of financial solutions to help Maine businesses start, grow, and succeed.",
     "website": "https://www.famemaine.com/",
@@ -136,11 +136,11 @@
     "title": "Northern Maine Development Commission (NMDC)",
     "location": "Northern Maine",
     "type": "Regional Development",
-    "amount": "Varies",
+    "amount": "",
     "stage": "All stages",
     "description": "The Northern Maine Development Commission offers a range of business development services, including financing and technical assistance, to support economic growth in the region.",
     "website": "https://www.nmdc.org/",
-    "contact": "info@nmdc.org",
+    "contact": "",
     "tags": ["website", "regional", "loan", "support"]
   }
 ]
