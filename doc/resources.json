@@ -48,15 +48,99 @@
     "tags": ["website", "federal", "grant", "article"]
   },
   {
-    "id": 5,
-    "title": "Blackstone Accelerates Growth",
+    "id": 6,
+    "title": "Maine Venture Fund (MVF)",
+    "location": "Statewide, Maine",
+    "type": "Venture Capital",
+    "amount": "Varies",
+    "stage": "Early to Growth",
+    "description": "Maine Venture Fund invests in Maine-based companies with high-growth potential, providing equity capital to support their expansion.",
+    "website": "https://www.maineventurefund.com/",
+    "contact": "info@maineventurefund.com",
+    "tags": ["website", "venture capital", "investment"]
+  },
+  {
+    "id": 7,
+    "title": "North Atlantic Capital",
     "location": "Portland, Maine",
+    "type": "Venture Capital",
+    "amount": "Varies",
+    "stage": "Growth",
+    "description": "North Atlantic Capital provides growth capital to later-stage technology companies.",
+    "website": "https://www.northatlanticcapital.com/",
+    "contact": "info@northatlanticcapital.com",
+    "tags": ["website", "venture capital", "investment"]
+  },
+  {
+    "id": 8,
+    "title": "Maine Angels",
+    "location": "Portland, Maine",
+    "type": "Angel Investment",
+    "amount": "Varies",
+    "stage": "Seed, Early Stage",
+    "description": "Maine Angels is a group of accredited investors who provide funding and mentorship to early-stage companies in Maine and New England.",
+    "website": "https://www.maineangels.org/",
+    "contact": "info@maineangels.org",
+    "tags": ["website", "investment", "angel"]
+  },
+  {
+    "id": 9,
+    "title": "Dirigo Labs",
+    "location": "Waterville, Maine",
     "type": "Accelerator",
-    "amount": "$25K + Investment",
+    "amount": "Varies",
     "stage": "Early Stage",
-    "description": "BAG is Maine's leading startup accelerator program, providing mentorship, workspace, and funding to early-stage companies. They run intensive 3-month programs culminating in demo day presentations to investors.",
-    "website": "https://www.blackstoneaccelerates.org",
-    "contact": "info@blackstoneaccelerates.org",
+    "description": "Dirigo Labs is a startup accelerator that provides mentorship, resources, and funding opportunities to early-stage companies in Maine.",
+    "website": "https://www.dirigolabs.org/",
+    "contact": "info@dirigolabs.org",
     "tags": ["website", "accelerator", "program"]
+  },
+  {
+    "id": 10,
+    "title": "Roux Institute Founder Residency",
+    "location": "Portland, Maine",
+    "type": "Accelerator/Residency",
+    "amount": "Stipend and potential for investment",
+    "stage": "Early Stage",
+    "description": "The Roux Institute's Founder Residency program offers mentorship, resources, and a supportive community for early-stage technology companies.",
+    "website": "https://roux.northeastern.edu/venture-creation/founder-residency/",
+    "contact": "roux@northeastern.edu",
+    "tags": ["website", "accelerator", "program", "education"]
+  },
+  {
+    "id": 11,
+    "title": "Tom's of Maine Incubator",
+    "location": "Statewide, Maine",
+    "type": "Incubator/Grant",
+    "amount": "Varies",
+    "stage": "Early Stage",
+    "description": "The Tom's of Maine Incubator provides funding, mentorship, and support to young entrepreneurs working on solutions to environmental and social challenges.",
+    "website": "https://www.tomsofmaine.com/about-us/incubator",
+    "contact": "Via website contact form",
+    "tags": ["website", "incubator", "grant", "social impact"]
+  },
+  {
+    "id": 12,
+    "title": "Finance Authority of Maine (FAME)",
+    "location": "Statewide, Maine",
+    "type": "Government Financing",
+    "amount": "Varies",
+    "stage": "All stages",
+    "description": "The Finance Authority of Maine (FAME) provides a wide range of financial solutions to help Maine businesses start, grow, and succeed.",
+    "website": "https://www.famemaine.com/",
+    "contact": "business@famemaine.com",
+    "tags": ["website", "government", "loan", "support"]
+  },
+  {
+    "id": 13,
+    "title": "Northern Maine Development Commission (NMDC)",
+    "location": "Northern Maine",
+    "type": "Regional Development",
+    "amount": "Varies",
+    "stage": "All stages",
+    "description": "The Northern Maine Development Commission offers a range of business development services, including financing and technical assistance, to support economic growth in the region.",
+    "website": "https://www.nmdc.org/",
+    "contact": "info@nmdc.org",
+    "tags": ["website", "regional", "loan", "support"]
   }
-] 
+]
