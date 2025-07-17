@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Maine Technology Institute (MTI)",
+    "location": "Statewide, Maine",
+    "type": "Grant & Loan",
+    "amount": "Up to $500K",
+    "stage": "Seed to Growth",
+    "description": "MTI provides funding and business support to Maine-based technology companies. They offer various programs including seed grants, development loans, and cluster enhancement awards. Perfect for tech startups looking to commercialize their innovations.",
+    "website": "https://www.mainetechnology.org",
+    "contact": "info@mainetechnology.org",
+    "tags": ["website", "grant", "support"]
+  },
+  {
+    "id": 2,
+    "title": "CEI Investment Notes",
+    "location": "Portland, Maine",
+    "type": "Community Investment",
+    "amount": "$25K - $250K",
+    "stage": "Early to Growth",
+    "description": "Coastal Enterprises Inc. provides patient capital and technical assistance to businesses that create economic opportunity in Maine's underinvested markets. They focus on companies that create quality jobs and strengthen communities.",
+    "website": "https://www.ceimaine.org",
+    "contact": "info@ceimaine.org",
+    "tags": ["website", "investment", "community"]
+  },
+  {
+    "id": 3,
+    "title": "Top Gun Ventures",
+    "location": "Brunswick, Maine",
+    "type": "Venture Capital",
+    "amount": "$500K - $5M",
+    "stage": "Series A & B",
+    "description": "Top Gun Ventures is a venture capital firm focused on investing in scalable technology companies. They provide both capital and strategic guidance to help companies achieve rapid growth and market leadership.",
+    "website": "https://www.topgunventures.com",
+    "contact": "contact@topgunventures.com",
+    "tags": ["website", "venture capital", "investment"]
+  },
+  {
+    "id": 4,
+    "title": "Maine SBIR/STTR Program",
+    "location": "Statewide, Maine",
+    "type": "Federal Grant",
+    "amount": "$50K - $1.5M",
+    "stage": "Research & Development",
+    "description": "Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs provide funding for research and development projects with commercial potential. Maine has strong support infrastructure for these federal programs.",
+    "website": "https://www.maine.gov/decd/business-development/sbir-sttr",
+    "contact": "sbir@maine.gov",
+    "tags": ["website", "federal", "grant", "article"]
+  },
+  {
+    "id": 5,
+    "title": "Blackstone Accelerates Growth",
+    "location": "Portland, Maine",
+    "type": "Accelerator",
+    "amount": "$25K + Investment",
+    "stage": "Early Stage",
+    "description": "BAG is Maine's leading startup accelerator program, providing mentorship, workspace, and funding to early-stage companies. They run intensive 3-month programs culminating in demo day presentations to investors.",
+    "website": "https://www.blackstoneaccelerates.org",
+    "contact": "info@blackstoneaccelerates.org",
+    "tags": ["website", "accelerator", "program"]
+  }
+] 
